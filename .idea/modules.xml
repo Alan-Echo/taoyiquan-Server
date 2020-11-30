@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/taoyiquan-Server.iml" filepath="$PROJECT_DIR$/taoyiquan-Server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyiquan-admin/taoyiquan-admin.iml" filepath="$PROJECT_DIR$/taoyiquan-admin/taoyiquan-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyiquan-auth/taoyiquan-auth.iml" filepath="$PROJECT_DIR$/taoyiquan-auth/taoyiquan-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyiquan-common/taoyiquan-common.iml" filepath="$PROJECT_DIR$/taoyiquan-common/taoyiquan-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyiquan-gateway/taoyiquan-gateway.iml" filepath="$PROJECT_DIR$/taoyiquan-gateway/taoyiquan-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyiquan-taobao/taoyiquan-taobao.iml" filepath="$PROJECT_DIR$/taoyiquan-taobao/taoyiquan-taobao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taoyiquan-user/taoyiquan-user.iml" filepath="$PROJECT_DIR$/taoyiquan-user/taoyiquan-user.iml" />
+    </modules>
+  </component>
+</project>

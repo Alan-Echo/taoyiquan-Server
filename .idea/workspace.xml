@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="baf9aecf-994e-41ab-8ae0-142fe7c90e59" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/taoyiquan-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/taoyiquan-UserServer/target/" />
+    <ignored path="$PROJECT_DIR$/taoyiquan-user/target/" />
+    <ignored path="$PROJECT_DIR$/taoyiquan-auth/target/" />
+    <ignored path="$PROJECT_DIR$/taoyiquan-admin/target/" />
+    <ignored path="$PROJECT_DIR$/taoyiquan-common/target/" />
+    <ignored path="$PROJECT_DIR$/taoyiquan-taobao/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/server/UserDetailsServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="482">
+              <caret line="84" column="10" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoyiquan-common/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoyiquan-auth/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/feign/fallback/adminFeignFallBack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="370">
+              <caret line="15" column="31" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/controller/AdminXAdminController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="444">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
+                <element signature="e#985#986#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoyiquan-admin/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="22" selection-start-line="22" selection-end-line="40" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoyiquan-user/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoyiquan-common/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="52" selection-start-line="52" selection-end-line="53" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/feign/adminFeignClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="548">
+              <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taoyiquan-taobao/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>id</find>
+      <find>spring-security-rsa</find>
+      <find>从token中获取登陆用户信息</find>
+      <find>==================== QUERY ====================</find>
+      <find>// ==================== ADD、MODIFY、REMOVE ====================</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/config/SecurityConfig.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/handler/CustomizeAuthenticationEntryPoint.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/response/ResultCode.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/response/ResponseData.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/feign/fallback/roleFeignFallback.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/feign/fallback/userFeignFallback.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/feign/roleFeignClient.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/feign/userFeignClient.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/mapper/XtRoleMapper.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/dto/XtRoleDTO.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/dto/XtUserRoleDTO.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/entity/XtRoleEntity.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/entity/XtUserRoleEntity.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/service/XtRoleService.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/service/XtRoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/controller/AdmintRoleController.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/controller/AdminXtUserRoleController.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/mapper/XAdminMapper.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/mapper/XtUserRoleMapper.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/service/XAdminService.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/service/XAdminServiceImpl.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/service/XtUserRoleService.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/service/XtUserRoleServiceImpl.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/AdminApplication.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/mapper/XUserMapper.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/model/dto/XUserDTO.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/model/entity/XUserEntity.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/controller/app/ApiXUserController.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/service/XUserService.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/service/XUserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-auth/pom.xml" />
+        <option value="$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/controller/admin/AdminXUserController.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/mybatisplus/vo/BasicVO.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/vo/adminVO.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/dto/XAdminDTO.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/mybatisplus/entity/BaseEntity.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/mybatisplus/entity/BasicUser.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/entity/XAdminEntity.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/mybatisplus/entity/AuthenticationUser.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/handler/CustomizeAuthenticationSuccessHandler.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-gateway/src/main/java/com/qingqi/taoyiquan/gateway/exction/GlobalExceptionConfiguration.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-common/pom.xml" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/pom.xml" />
+        <option value="$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/server/UserDetailsServiceImpl.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-auth/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/feign/fallback/adminFeignFallBack.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/feign/adminFeignClient.java" />
+        <option value="$PROJECT_DIR$/taoyiquan-taobao/pom.xml" />
+        <option value="$PROJECT_DIR$/taoyiquan-user/pom.xml" />
+        <option value="$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/controller/AdminXAdminController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Server\Maven\apache-maven-3.6.1\repository" />
+        <option name="mavenHome" value="E:/Server/Maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\Server\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="taoyiquan-auth" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="taoyiquan-auth" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="taoyiquan-auth" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="com.qiongqi.taoyiquan:taoyiquan-common:1.0.0-SNAPSHOT" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="122" />
+    <option name="y" value="11" />
+    <option name="width" value="1769" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="taoyiquan-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoyiquan-Server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoyiquan-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoyiquan-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="taoyiquan-admin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoyiquan-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoyiquan-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="taoyiquan-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoyiquan-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoyiquan-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="taoyiquan-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoyiquan-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoyiquan-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="taoyiquan-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoyiquan-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoyiquan-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="taoyiquan-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="taoyiquan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoyiquan-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoyiquan-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="taoyiquan-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="taoyiquan" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoyiquan-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoyiquan-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="taoyiquan-admin" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="taoyiquan-Server" type="b2602c69:ProjectViewProjectNode" />
+              <item name="taoyiquan-Server" type="462c0819:PsiDirectoryNode" />
+              <item name="taoyiquan-taobao" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1606756285937" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.49947312" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.qiongqi.taoyiquan.common" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.qingqi.taoyiquan.gateway.config.handler" />
+      <recent name="com.qiongqi.taoyiquan.common.utils" />
+      <recent name="com.qiongqitaoyiquan.auth.server" />
+      <recent name="com.qiongqitaoyiquan.auth.config" />
+      <recent name="com.qiongqi.taoyiquan.common.utils.mybatisplus.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA\workspace\taobaoke\taoyiquan-Server\taoyiquan-user\src\main\java\com\qiongqi\taoyiquan\user\controller\admin" />
+      <recent name="E:\IDEA\workspace\taobaoke\taoyiquan-Server\taoyiquan-user\src\main\java\com\qiongqi\taoyiquan\user\controller\app" />
+      <recent name="E:\IDEA\workspace\taobaoke\taoyiquan-Server\taoyiquan-user\src\main\java\com\qiongqi\taoyiquan\user" />
+      <recent name="E:\IDEA\workspace\taobaoke\taoyiquan-Server\taoyiquan-auth\src\main\java\com\qiongqi\taoyiquan\auth" />
+      <recent name="E:\IDEA\workspace\taobaoke\taoyiquan-Server\taoyiquan-common\src\main\java\com\qiongqi\taoyiquan\common\mybatisplus" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AdminApplication">
+    <configuration name="AdminXAdminController.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="taoyiquan-admin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiongqi.taoyiquan.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qiongqi.taoyiquan.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.qiongqi.taoyiquan.controller.AdminXAdminController" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaoyiquanAuthApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="taoyiquan-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qiongqi.taoyiquan.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qiongqi.taoyiquan.auth" />
+      <option name="MAIN_CLASS_NAME" value="com.qiongqi.taoyiquan.auth.TaoyiquanAuthApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AdminApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="taoyiquan-admin" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiongqi.taoyiquan.AdminApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="taoyiquan-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiongqi.taoyiquan.auth.AuthApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="taoyiquan-auth" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiongqi.taoyiquan.auth.AuthApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="taoyiquan-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qingqi.taoyiquan.gateway.GatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
+      <module name="taoyiquan-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qingqi.taoyiquan.gateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qingqi.taoyiquan.gateway.GatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="taoyiquan-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qingqi.taoyiquan.gateway.TaoyiquanGatewayApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaobaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="taoyiquan-taobao" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiongqi.taoyiquan.taobao.TaobaoApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="taoyiquan-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.qiongqi.taoyiquan.user.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TaoyiquanAuthApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.GatewayApplication" />
+      <item itemvalue="Spring Boot.AdminApplication" />
+      <item itemvalue="Spring Boot.UserApplication" />
+      <item itemvalue="Spring Boot.AuthApplication" />
+      <item itemvalue="Spring Boot.TaobaoApplication" />
+      <item itemvalue="JUnit.AdminXAdminController.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.AdminXAdminController.test" />
+        <item itemvalue="JUnit.TaoyiquanAuthApplicationTests.contextLoads" />
+        <item itemvalue="Spring Boot.GatewayApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="baf9aecf-994e-41ab-8ae0-142fe7c90e59" name="Default Changelist" comment="" />
+      <created>1603558835764</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603558835764</updated>
+      <workItem from="1603558840460" duration="1496000" />
+      <workItem from="1603600440595" duration="704000" />
+      <workItem from="1603642494127" duration="202000" />
+      <workItem from="1603642740416" duration="121000" />
+      <workItem from="1603642885618" duration="1227000" />
+      <workItem from="1606304992746" duration="462000" />
+      <workItem from="1606305545899" duration="2939000" />
+      <workItem from="1606308529787" duration="8513000" />
+      <workItem from="1606358921784" duration="6005000" />
+      <workItem from="1606367126816" duration="182000" />
+      <workItem from="1606389310828" duration="8696000" />
+      <workItem from="1606443554974" duration="12411000" />
+      <workItem from="1606458992329" duration="723000" />
+      <workItem from="1606470843466" duration="26319000" />
+      <workItem from="1606548817248" duration="10396000" />
+      <workItem from="1606559263341" duration="16957000" />
+      <workItem from="1606742230850" duration="10230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TaoyiquanAuthApplicationTests_contextLoads - 2020.11.27 at 20h 43m 52s.xml">
+      <configuration name="TaoyiquanAuthApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminXAdminController_test - 2020.12.01 at 00h 47m 13s.xml">
+      <configuration name="AdminXAdminController.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminXAdminController_test - 2020.12.01 at 00h 48m 01s.xml">
+      <configuration name="AdminXAdminController.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminXAdminController_test - 2020.12.01 at 00h 48m 28s.xml">
+      <configuration name="AdminXAdminController.test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AdminXAdminController_test - 2020.12.01 at 00h 48m 57s.xml">
+      <configuration name="AdminXAdminController.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="107583000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19509594" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35102925" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.36442515" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Messages" order="14" weight="0.2516269" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.22867803" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/service/XtUserRoleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/service/XtUserRoleServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/AdminApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/model/dto/XUserDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="68" selection-start-line="68" selection-end-line="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/controller/app/ApiXUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/mapper/XUserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/service/XUserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="32" column="51" selection-start-line="32" selection-start-column="51" selection-end-line="32" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1317#1318#0" expanded="true" />
+            <element signature="e#1374#1375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/UserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/model/entity/XUserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2619">
+          <caret line="105" column="28" selection-start-line="105" selection-start-column="28" selection-end-line="105" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/service/XUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/handler/CustomizeAuthenticationFailureHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="52" column="37" selection-start-line="52" selection-start-column="37" selection-end-line="52" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="24" column="53" selection-start-line="24" selection-start-column="53" selection-end-line="24" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-user/src/main/java/com/qiongqi/taoyiquan/user/controller/admin/AdminXUserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/controller/AdminXtUserRoleController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/mybatisplus/dto/BasicDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/mybatisplus/vo/BasicVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/dto/XAdminDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/dto/XtRoleDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-185">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/dto/XtUserRoleDTO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="895">
+          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/entity/XtRoleEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1138">
+          <caret line="65" column="35" lean-forward="true" selection-start-line="65" selection-start-column="35" selection-end-line="65" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/entity/XtUserRoleEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="62" column="7" lean-forward="true" selection-start-line="62" selection-start-column="7" selection-end-line="62" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/vo/adminVO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="20" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/utils/ConvertUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/response/ResultCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="4" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-auth/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="59" selection-start-line="59" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/mybatisplus/entity/BaseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="13" column="20" lean-forward="true" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/model/entity/XAdminEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="72" lean-forward="true" selection-start-line="72" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Set.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="84" column="20" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="139" column="11" selection-start-line="139" selection-start-column="11" selection-end-line="139" selection-end-column="11" />
+          <folding>
+            <element signature="e#5525#5526#0" expanded="true" />
+            <element signature="e#5572#5573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="1116" column="29" selection-start-line="1116" selection-start-column="29" selection-end-line="1116" selection-end-column="29" />
+          <folding>
+            <element signature="e#46897#46898#0" expanded="true" />
+            <element signature="e#46944#46945#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Server/Maven/apache-maven-3.6.1/repository/org/springframework/security/spring-security-core/5.3.2.RELEASE/spring-security-core-5.3.2.RELEASE.jar!/org/springframework/security/core/userdetails/User.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="45" column="189" selection-start-line="45" selection-start-column="151" selection-end-line="45" selection-end-column="189" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-common/src/main/java/com/qiongqi/taoyiquan/common/mybatisplus/entity/AuthenticationUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#493#494#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#569#570#0" expanded="true" />
+            <element signature="e#596#597#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#767#768#0" expanded="true" />
+            <element signature="e#829#830#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+            <element signature="e#905#906#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/handler/CustomizeAuthenticationSuccessHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="55" column="47" selection-start-line="55" selection-start-column="47" selection-end-line="55" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-gateway/src/main/java/com/qingqi/taoyiquan/gateway/exction/GlobalExceptionConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="35" column="2" selection-start-line="35" selection-start-column="2" selection-end-line="35" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-gateway/src/main/java/com/qingqi/taoyiquan/gateway/config/SecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="28" column="38" selection-start-line="28" selection-start-column="38" selection-end-line="28" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/Server/Maven/apache-maven-3.6.1/repository/org/springframework/security/spring-security-core/5.3.2.RELEASE/spring-security-core-5.3.2.RELEASE.jar!/org/springframework/security/authentication/dao/DaoAuthenticationProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/service/XAdminServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#1385#1386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="52" selection-start-line="52" selection-end-line="53" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/server/UserDetailsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="84" column="10" selection-start-line="84" selection-start-column="10" selection-end-line="84" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-common/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-auth/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/feign/fallback/adminFeignFallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="15" column="31" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-auth/src/main/java/com/qiongqi/taoyiquan/auth/feign/adminFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="22" selection-start-line="22" selection-end-line="40" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-taobao/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taoyiquan-admin/src/main/java/com/qiongqi/taoyiquan/controller/AdminXAdminController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#985#986#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49947312" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49947312" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49947312" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49947312" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>taoyiquan-gateway</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49947312" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49947312" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

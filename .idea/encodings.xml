@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taoyiquan-admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taoyiquan-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taoyiquan-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taoyiquan-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taoyiquan-taobao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/taoyiquan-user" charset="UTF-8" />
+  </component>
+</project>
