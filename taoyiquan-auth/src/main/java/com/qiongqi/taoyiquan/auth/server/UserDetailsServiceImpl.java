@@ -39,7 +39,7 @@ public class UserDetailsServiceImpl implements UserDetailsService {
     @Override
     public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
         //需要构造出 org.springframework.security.core.userdetails.User 对象并返回
-        //校验验证码等操作....
+        
         //
         if(!StringUtils.isNotBlank(username)){
             throw new RuntimeException("用户不能为空");
