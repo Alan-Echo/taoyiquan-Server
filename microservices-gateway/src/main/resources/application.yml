@@ -1,0 +1,47 @@
+
+server:
+  port: 8849
+
+logging:
+  config: classpath:logback.xml
+
+spring:
+  application:
+    name: microservices-gateway
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+    gateway:
+      routes:
+        - id: microservices-admin
+          uri: lb://microservices-admin # lb: 使用负载均衡策略  默认应该是轮询策略
+          predicates:
+            - Path=/admin/**
+          filters:
+            - StripPrefix=1
+        - id: microservices-user
+          uri: lb://microservices-user
+          predicates:
+            - Path=/user/**
+          filters:
+            - StripPrefix=1
+        - id: microservices-auth
+          uri: lb://microservices-auth
+          predicates:
+            - Path=/auth/**
+          filters:
+            - StripPrefix=1
+        - id: microservices-taobao
+          uri: lb://microservices-taobao
+          predicates:
+            - Path=/taobao/**
+          filters:
+            - StripPrefix=1
+        - id: microservices-elasticsearch
+          uri: lb://microservices-elasticsearch
+          predicates:
+            - Path=/elasticsearch/**
+          filters:
+            - StripPrefix=1
+

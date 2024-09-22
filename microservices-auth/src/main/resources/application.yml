@@ -1,0 +1,21 @@
+
+
+server:
+  port: 8850
+  servlet:
+    context-path: /api-auth
+
+logging:
+  config: classpath:logback.xml
+
+spring:
+  application:
+    name: microservices-auth
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+
+
+
+

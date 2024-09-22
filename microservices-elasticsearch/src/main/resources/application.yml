@@ -1,0 +1,24 @@
+server:
+  servlet:
+    context-path: /api-elasticsearch
+  port: 8851
+
+logging:
+  config: classpath:logback.xml
+
+spring:
+  application:
+    name: microservices-elasticsearch
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+#  data:
+#    elasticsearch:
+#      rest:
+#        connection-timeout: 5s # 连接超时时间
+#  #      username: # 连接用户名
+#  #      password: # 连接密码
+#        read-timeout: 30s # 读取超时时间
+#        uris: localhost:9200 # es rest 接口地址，多个用逗号隔开
+

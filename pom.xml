@@ -8,11 +8,11 @@
         <version>2.3.0.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.qiongqi.taoyiquan</groupId>
-    <artifactId>taoyiquan-server</artifactId>
+    <groupId>com.microservices</groupId>
+    <artifactId>microservices-server</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>taoyiquan-server</name>
-    <description>淘壹券服务</description>
+    <name>microservices-server</name>
+    <description>微服务</description>
 
     <properties>
         <java.version>1.8</java.version>
@@ -29,6 +29,17 @@
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-logging</artifactId>
+        </dependency>
+        <!-- https://mvnrepository.com/artifact/net.logstash.logback/logstash-logback-encoder -->
+        <dependency>
+            <groupId>net.logstash.logback</groupId>
+            <artifactId>logstash-logback-encoder</artifactId>
+            <version>7.3</version>
+        </dependency>
+
 
     </dependencies>
 

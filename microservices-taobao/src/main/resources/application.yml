@@ -1,0 +1,15 @@
+server:
+  servlet:
+    context-path: /api-taobao
+  port: 9000
+
+logging:
+  config: classpath:logback.xml
+
+spring:
+  application:
+    name: microservices-taobao
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration scan="true" scanPeriod="60 seconds" debug="false">
+
+    <property name="LOG_HOME" value="/usr/local/log/projectName"/>
+    <property name="FILE_LOG_NAME" value="projectName"/>
+    <!-- root日志级别 -->
+    <property name="INFO_LEVEL" value="INFO"/>
+    <property name="DEBUG_LEVEL" value="DEBUG"/>
+    <property name="WARN_LEVEL" value="WARN"/>
+    <property name="ERROR_LEVEL" value="ERROR"/>
+
+    <!-- 控制台日志 -->
+    <appender name="consoleLog" class="ch.qos.logback.core.ConsoleAppender">
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] [%X{X-B3-TraceId:-},%X{X-B3-SpanId:-}] %-5level %class{36}#%M [line:%L] - %msg%xEx%n</pattern>
+        </encoder>
+    </appender>
+
+    <appender name="LOGSTASH" class="net.logstash.logback.appender.LogstashTcpSocketAppender">
+        <!--
+            Logstash 配置中开放的端口
+                input{
+                    tcp {
+                        mode => "server"
+                        host => "0.0.0.0" #我这里是本地
+                        port => 4567 #开放这个端口进行采集
+                        codec => json_lines # 编解码器 有的版本需要独自安装
+                    }
+                }
+        -->
+        <destination>localhost:4567</destination>
+        <encoder charset="UTF-8" class="net.logstash.logback.encoder.LogstashEncoder" />
+    </appender>
+
+
+    <!-- 项目级别 根目录 -->
+<!--    <logger name="org.corp.core" level="INFO" additivity="false">-->
+<!--        <appender-ref ref="fileLog"/>-->
+<!--        <appender-ref ref="consoleLog"/>-->
+<!--    </logger>-->
+    <root level="INFO">
+<!--        <appender-ref ref="fileLog"/>-->
+        <appender-ref ref="consoleLog"/>
+        <appender-ref ref="LOGSTASH" />
+    </root>
+<!--    <root level="DEBUG">-->
+<!--        <appender-ref ref="fileLog"/>-->
+<!--        <appender-ref ref="consoleLog"/>-->
+<!--    </root>-->
+<!--    <root level="WARN">-->
+<!--        <appender-ref ref="fileLog"/>-->
+<!--        <appender-ref ref="consoleLog"/>-->
+<!--    </root>-->
+<!--    <root level="ERROR">-->
+<!--        <appender-ref ref="fileLog"/>-->
+<!--        <appender-ref ref="consoleLog"/>-->
+<!--    </root>-->
+
+</configuration>
